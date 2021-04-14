@@ -5,7 +5,7 @@ https://vputri.github.io/FirstFollowParseTree/
 Langkah pertama yang dilakukan user adalah memasukan Terminal, Non-terminal dan produksi, untuk nantinya digunakan agar First, Follow dan Table Parser dapat di generasi.
 
 2. First, Follow, Parsing Table
-3. ![logo](https://github.com/vikaputri/FirstFollowParseTree/blob/master/2.png)
+![logo](https://github.com/vikaputri/FirstFollowParseTree/blob/master/2.png)
 Hasil Produksi dari grammar yang diinputkan pada langkah 1, nantinya akan ditampilkan oleh kedua tabel. Tabel kiri yang warna hitam menghasilkan output untuk First dan Follow. Sedangkan tabel yang kanan warna Merah,menghasilkan Output berupa parse tabel. kemudian untuk selanjutnya user dapat melihat bentuk parse tree dari input yang dapat ditentukan oleh user. Untuk dapat melihat parse tree, user dapat menekan tombol “GOTO PARSE TREE”.
 
 3. Pohon Sintaks
