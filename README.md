@@ -1,6 +1,7 @@
 https://vputri.github.io/FirstFollowParseTree/
 
 1. Input Grammar
+![logo](https://github.com/vikaputri/FirstFollowParseTree/blob/master/1.png)
 Langkah pertama yang dilakukan user adalah memasukan Terminal, Non-terminal dan produksi, untuk nantinya digunakan agar First, Follow dan Table Parser dapat di generasi.
 
 2. First, Follow, Parsing Table
